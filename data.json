@@ -1,0 +1,85 @@
+{
+  "status": 200,
+  "success": true,
+  "data": [
+    {
+      "id": 1,
+      "certification_id": 1,
+      "section_id": "Arable, fresh produce",
+      "title": "Cover-cropping",
+      "sub_title": "Cover crops are planted between the harvest of one crop and the planting of another on the same piece of land. To maximize the agronomical and ecological benefits from cover crops, they should be planted for a minimum of two months. (Refer regenagri Stand",
+      "question_no": "1.1",
+      "question": "On average over a three-year period, cover-cropping occurs on:",
+      "options": [
+        {
+          "id": 1,
+          "certification_id": 1,
+          "name": "Less than 10% of applicable land",
+          "score": 0
+        },
+        {
+          "id": 2,
+          "certification_id": 1,
+          "name": "10-24% of applicable land",
+          "score": 1
+        },
+        {
+          "id": 3,
+          "certification_id": 1,
+          "name": "25-49% of applicable land, or;",
+          "score": 2
+        },
+        {
+          "id": 4,
+          "certification_id": 1,
+          "name": "50+% of applicable land is utilized for the p",
+          "score": 3
+        }
+      ],
+      "option_type": "single",
+      "note": "",
+      "documents": "",
+      "is_answered": 0
+    },
+    {
+      "id": 2,
+      "certification_id": 1,
+      "section_id": "Arable, pastoral, fresh produce, top fruits",
+      "title": "Perennial cropping",
+      "sub_title": "Perennial crops are plants that do not require replanting each year ranging from perennial grasslands, shrubs, perennial biomass crops and even trees. The farmers should dedicate a small percentage of land towards the installation and maintenance of peren",
+      "question_no": "2.1",
+      "question": "Perennial cropping is incorporated into:",
+      "options": [
+        {
+          "id": 5,
+          "certification_id": 1,
+          "name": "Less than 2% of applicable land",
+          "score": 1
+        },
+        {
+          "id": 6,
+          "certification_id": 1,
+          "name": "2-4% of applicable land incorporates; plants ",
+          "score": 2
+        },
+        {
+          "id": 7,
+          "certification_id": 1,
+          "name": "5-9+% of applicable land incorporates plants ",
+          "score": 3
+        },
+        {
+          "id": 8,
+          "certification_id": 1,
+          "name": "10%+ of applicable land incorporates plants t",
+          "score": 3
+        }
+      ],
+      "option_type": "single",
+      "note": "",
+      "documents": "",
+      "is_answered": 0
+    }
+  ],
+  "message": "Success"
+}
